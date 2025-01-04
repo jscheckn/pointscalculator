@@ -1,0 +1,1234 @@
+{
+    "Male-10-50FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "10",
+        "Event": "50FRSCY",
+        "Time": "24.42",
+        "Entries": "Male-10-50FRSCY"
+    },
+    "Male-10-100FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "10",
+        "Event": "100FRSCY",
+        "Time": "53.12",
+        "Entries": "Male-10-100FRSCY"
+    },
+    "Male-10-200FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "10",
+        "Event": "200FRSCY",
+        "Time": "01:56.4",
+        "Entries": "Male-10-200FRSCY"
+    },
+    "Male-10-500FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "10",
+        "Event": "500FRSCY",
+        "Time": "05:06.3",
+        "Entries": "Male-10-500FRSCY"
+    },
+    "Male-10-50BKSCY": {
+        "\ufeffGender": "Male",
+        "Age": "10",
+        "Event": "50BKSCY",
+        "Time": "26.91",
+        "Entries": "Male-10-50BKSCY"
+    },
+    "Male-10-100BKSCY": {
+        "\ufeffGender": "Male",
+        "Age": "10",
+        "Event": "100BKSCY",
+        "Time": "58.62",
+        "Entries": "Male-10-100BKSCY"
+    },
+    "Male-10-200BKSCY": {
+        "\ufeffGender": "Male",
+        "Age": "10",
+        "Event": "200BKSCY",
+        "Time": "",
+        "Entries": "Male-10-200BKSCY"
+    },
+    "Male-10-50BRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "10",
+        "Event": "50BRSCY",
+        "Time": "31.09",
+        "Entries": "Male-10-50BRSCY"
+    },
+    "Male-10-100BRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "10",
+        "Event": "100BRSCY",
+        "Time": "01:07.0",
+        "Entries": "Male-10-100BRSCY"
+    },
+    "Male-10-200BRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "10",
+        "Event": "200BRSCY",
+        "Time": "",
+        "Entries": "Male-10-200BRSCY"
+    },
+    "Male-10-50FLSCY": {
+        "\ufeffGender": "Male",
+        "Age": "10",
+        "Event": "50FLSCY",
+        "Time": "26.58",
+        "Entries": "Male-10-50FLSCY"
+    },
+    "Male-10-100FLSCY": {
+        "\ufeffGender": "Male",
+        "Age": "10",
+        "Event": "100FLSCY",
+        "Time": "58.36",
+        "Entries": "Male-10-100FLSCY"
+    },
+    "Male-10-200FLSCY": {
+        "\ufeffGender": "Male",
+        "Age": "10",
+        "Event": "200FLSCY",
+        "Time": "",
+        "Entries": "Male-10-200FLSCY"
+    },
+    "Male-10-100IMSCY": {
+        "\ufeffGender": "Male",
+        "Age": "10",
+        "Event": "100IMSCY",
+        "Time": "01:00.9",
+        "Entries": "Male-10-100IMSCY"
+    },
+    "Male-10-200IMSCY": {
+        "\ufeffGender": "Male",
+        "Age": "10",
+        "Event": "200IMSCY",
+        "Time": "02:10.1",
+        "Entries": "Male-10-200IMSCY"
+    },
+    "Male-10-400IMSCY": {
+        "\ufeffGender": "Male",
+        "Age": "10",
+        "Event": "400IMSCY",
+        "Time": "",
+        "Entries": "Male-10-400IMSCY"
+    },
+    "Male-12-50FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "12",
+        "Event": "50FRSCY",
+        "Time": "21.5",
+        "Entries": "Male-12-50FRSCY"
+    },
+    "Male-12-100FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "12",
+        "Event": "100FRSCY",
+        "Time": "47.15",
+        "Entries": "Male-12-100FRSCY"
+    },
+    "Male-12-200FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "12",
+        "Event": "200FRSCY",
+        "Time": "01:44.3",
+        "Entries": "Male-12-200FRSCY"
+    },
+    "Male-12-500FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "12",
+        "Event": "500FRSCY",
+        "Time": "04:41.3",
+        "Entries": "Male-12-500FRSCY"
+    },
+    "Male-12-1000FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "12",
+        "Event": "1000FRSCY",
+        "Time": "09:38.5",
+        "Entries": "Male-12-1000FRSCY"
+    },
+    "Male-12-1650FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "12",
+        "Event": "1650FRSCY",
+        "Time": "16:17.8",
+        "Entries": "Male-12-1650FRSCY"
+    },
+    "Male-12-50BKSCY": {
+        "\ufeffGender": "Male",
+        "Age": "12",
+        "Event": "50BKSCY",
+        "Time": "23.65",
+        "Entries": "Male-12-50BKSCY"
+    },
+    "Male-12-100BKSCY": {
+        "\ufeffGender": "Male",
+        "Age": "12",
+        "Event": "100BKSCY",
+        "Time": "50.99",
+        "Entries": "Male-12-100BKSCY"
+    },
+    "Male-12-200BKSCY": {
+        "\ufeffGender": "Male",
+        "Age": "12",
+        "Event": "200BKSCY",
+        "Time": "01:52.5",
+        "Entries": "Male-12-200BKSCY"
+    },
+    "Male-12-50BRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "12",
+        "Event": "50BRSCY",
+        "Time": "27.2",
+        "Entries": "Male-12-50BRSCY"
+    },
+    "Male-12-100BRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "12",
+        "Event": "100BRSCY",
+        "Time": "58.17",
+        "Entries": "Male-12-100BRSCY"
+    },
+    "Male-12-200BRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "12",
+        "Event": "200BRSCY",
+        "Time": "02:05.6",
+        "Entries": "Male-12-200BRSCY"
+    },
+    "Male-12-50FLSCY": {
+        "\ufeffGender": "Male",
+        "Age": "12",
+        "Event": "50FLSCY",
+        "Time": "22.87",
+        "Entries": "Male-12-50FLSCY"
+    },
+    "Male-12-100FLSCY": {
+        "\ufeffGender": "Male",
+        "Age": "12",
+        "Event": "100FLSCY",
+        "Time": "50.82",
+        "Entries": "Male-12-100FLSCY"
+    },
+    "Male-12-200FLSCY": {
+        "\ufeffGender": "Male",
+        "Age": "12",
+        "Event": "200FLSCY",
+        "Time": "01:53.7",
+        "Entries": "Male-12-200FLSCY"
+    },
+    "Male-12-100IMSCY": {
+        "\ufeffGender": "Male",
+        "Age": "12",
+        "Event": "100IMSCY",
+        "Time": "53.86",
+        "Entries": "Male-12-100IMSCY"
+    },
+    "Male-12-200IMSCY": {
+        "\ufeffGender": "Male",
+        "Age": "12",
+        "Event": "200IMSCY",
+        "Time": "01:55.8",
+        "Entries": "Male-12-200IMSCY"
+    },
+    "Male-12-400IMSCY": {
+        "\ufeffGender": "Male",
+        "Age": "12",
+        "Event": "400IMSCY",
+        "Time": "04:07.8",
+        "Entries": "Male-12-400IMSCY"
+    },
+    "Male-14-50FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "14",
+        "Event": "50FRSCY",
+        "Time": "19.76",
+        "Entries": "Male-14-50FRSCY"
+    },
+    "Male-14-100FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "14",
+        "Event": "100FRSCY",
+        "Time": "43.51",
+        "Entries": "Male-14-100FRSCY"
+    },
+    "Male-14-200FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "14",
+        "Event": "200FRSCY",
+        "Time": "01:34.7",
+        "Entries": "Male-14-200FRSCY"
+    },
+    "Male-14-500FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "14",
+        "Event": "500FRSCY",
+        "Time": "04:14.8",
+        "Entries": "Male-14-500FRSCY"
+    },
+    "Male-14-1000FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "14",
+        "Event": "1000FRSCY",
+        "Time": "08:46.5",
+        "Entries": "Male-14-1000FRSCY"
+    },
+    "Male-14-1650FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "14",
+        "Event": "1650FRSCY",
+        "Time": "14:45.8",
+        "Entries": "Male-14-1650FRSCY"
+    },
+    "Male-14-50BKSCY": {
+        "\ufeffGender": "Male",
+        "Age": "14",
+        "Event": "50BKSCY",
+        "Time": "21.87",
+        "Entries": "Male-14-50BKSCY"
+    },
+    "Male-14-100BKSCY": {
+        "\ufeffGender": "Male",
+        "Age": "14",
+        "Event": "100BKSCY",
+        "Time": "47.44",
+        "Entries": "Male-14-100BKSCY"
+    },
+    "Male-14-200BKSCY": {
+        "\ufeffGender": "Male",
+        "Age": "14",
+        "Event": "200BKSCY",
+        "Time": "01:43.2",
+        "Entries": "Male-14-200BKSCY"
+    },
+    "Male-14-50BRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "14",
+        "Event": "50BRSCY",
+        "Time": "24.74",
+        "Entries": "Male-14-50BRSCY"
+    },
+    "Male-14-100BRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "14",
+        "Event": "100BRSCY",
+        "Time": "53.06",
+        "Entries": "Male-14-100BRSCY"
+    },
+    "Male-14-200BRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "14",
+        "Event": "200BRSCY",
+        "Time": "01:55.5",
+        "Entries": "Male-14-200BRSCY"
+    },
+    "Male-14-50FLSCY": {
+        "\ufeffGender": "Male",
+        "Age": "14",
+        "Event": "50FLSCY",
+        "Time": "21.28",
+        "Entries": "Male-14-50FLSCY"
+    },
+    "Male-14-100FLSCY": {
+        "\ufeffGender": "Male",
+        "Age": "14",
+        "Event": "100FLSCY",
+        "Time": "45.81",
+        "Entries": "Male-14-100FLSCY"
+    },
+    "Male-14-200FLSCY": {
+        "\ufeffGender": "Male",
+        "Age": "14",
+        "Event": "200FLSCY",
+        "Time": "01:42.8",
+        "Entries": "Male-14-200FLSCY"
+    },
+    "Male-14-100IMSCY": {
+        "\ufeffGender": "Male",
+        "Age": "14",
+        "Event": "100IMSCY",
+        "Time": "",
+        "Entries": "Male-14-100IMSCY"
+    },
+    "Male-14-200IMSCY": {
+        "\ufeffGender": "Male",
+        "Age": "14",
+        "Event": "200IMSCY",
+        "Time": "01:45.3",
+        "Entries": "Male-14-200IMSCY"
+    },
+    "Male-14-400IMSCY": {
+        "\ufeffGender": "Male",
+        "Age": "14",
+        "Event": "400IMSCY",
+        "Time": "03:47.9",
+        "Entries": "Male-14-400IMSCY"
+    },
+    "Male-18-50FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "18",
+        "Event": "50FRSCY",
+        "Time": "18.67",
+        "Entries": "Male-18-50FRSCY"
+    },
+    "Male-18-100FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "18",
+        "Event": "100FRSCY",
+        "Time": "41.23",
+        "Entries": "Male-18-100FRSCY"
+    },
+    "Male-18-200FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "18",
+        "Event": "200FRSCY",
+        "Time": "01:31.4",
+        "Entries": "Male-18-200FRSCY"
+    },
+    "Male-18-500FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "18",
+        "Event": "500FRSCY",
+        "Time": "04:08.4",
+        "Entries": "Male-18-500FRSCY"
+    },
+    "Male-18-1000FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "18",
+        "Event": "1000FRSCY",
+        "Time": "08:43.7",
+        "Entries": "Male-18-1000FRSCY"
+    },
+    "Male-18-1650FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "18",
+        "Event": "1650FRSCY",
+        "Time": "14:29.5",
+        "Entries": "Male-18-1650FRSCY"
+    },
+    "Male-18-50BKSCY": {
+        "\ufeffGender": "Male",
+        "Age": "18",
+        "Event": "50BKSCY",
+        "Time": "20.08",
+        "Entries": "Male-18-50BKSCY"
+    },
+    "Male-18-100BKSCY": {
+        "\ufeffGender": "Male",
+        "Age": "18",
+        "Event": "100BKSCY",
+        "Time": "44.63",
+        "Entries": "Male-18-100BKSCY"
+    },
+    "Male-18-200BKSCY": {
+        "\ufeffGender": "Male",
+        "Age": "18",
+        "Event": "200BKSCY",
+        "Time": "01:37.4",
+        "Entries": "Male-18-200BKSCY"
+    },
+    "Male-18-50BRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "18",
+        "Event": "50BRSCY",
+        "Time": "23.45",
+        "Entries": "Male-18-50BRSCY"
+    },
+    "Male-18-100BRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "18",
+        "Event": "100BRSCY",
+        "Time": "51.16",
+        "Entries": "Male-18-100BRSCY"
+    },
+    "Male-18-200BRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "18",
+        "Event": "200BRSCY",
+        "Time": "01:51.4",
+        "Entries": "Male-18-200BRSCY"
+    },
+    "Male-18-50FLSCY": {
+        "\ufeffGender": "Male",
+        "Age": "18",
+        "Event": "50FLSCY",
+        "Time": "20.1",
+        "Entries": "Male-18-50FLSCY"
+    },
+    "Male-18-100FLSCY": {
+        "\ufeffGender": "Male",
+        "Age": "18",
+        "Event": "100FLSCY",
+        "Time": "44.75",
+        "Entries": "Male-18-100FLSCY"
+    },
+    "Male-18-200FLSCY": {
+        "\ufeffGender": "Male",
+        "Age": "18",
+        "Event": "200FLSCY",
+        "Time": "01:40.4",
+        "Entries": "Male-18-200FLSCY"
+    },
+    "Male-18-100IMSCY": {
+        "\ufeffGender": "Male",
+        "Age": "18",
+        "Event": "100IMSCY",
+        "Time": "",
+        "Entries": "Male-18-100IMSCY"
+    },
+    "Male-18-200IMSCY": {
+        "\ufeffGender": "Male",
+        "Age": "18",
+        "Event": "200IMSCY",
+        "Time": "01:41.2",
+        "Entries": "Male-18-200IMSCY"
+    },
+    "Male-18-400IMSCY": {
+        "\ufeffGender": "Male",
+        "Age": "18",
+        "Event": "400IMSCY",
+        "Time": "03:35.3",
+        "Entries": "Male-18-400IMSCY"
+    },
+    "Male-20-50FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "20",
+        "Event": "50FRSCY",
+        "Time": "17.63",
+        "Entries": "Male-20-50FRSCY"
+    },
+    "Male-20-100FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "20",
+        "Event": "100FRSCY",
+        "Time": "39.9",
+        "Entries": "Male-20-100FRSCY"
+    },
+    "Male-20-200FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "20",
+        "Event": "200FRSCY",
+        "Time": "01:29.2",
+        "Entries": "Male-20-200FRSCY"
+    },
+    "Male-20-500FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "20",
+        "Event": "500FRSCY",
+        "Time": "04:06.3",
+        "Entries": "Male-20-500FRSCY"
+    },
+    "Male-20-1000FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "20",
+        "Event": "1000FRSCY",
+        "Time": "08:33.9",
+        "Entries": "Male-20-1000FRSCY"
+    },
+    "Male-20-1650FRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "20",
+        "Event": "1650FRSCY",
+        "Time": "14:12.1",
+        "Entries": "Male-20-1650FRSCY"
+    },
+    "Male-20-50BKSCY": {
+        "\ufeffGender": "Male",
+        "Age": "20",
+        "Event": "50BKSCY",
+        "Time": "20.08",
+        "Entries": "Male-20-50BKSCY"
+    },
+    "Male-20-100BKSCY": {
+        "\ufeffGender": "Male",
+        "Age": "20",
+        "Event": "100BKSCY",
+        "Time": "43.35",
+        "Entries": "Male-20-100BKSCY"
+    },
+    "Male-20-200BKSCY": {
+        "\ufeffGender": "Male",
+        "Age": "20",
+        "Event": "200BKSCY",
+        "Time": "01:35.7",
+        "Entries": "Male-20-200BKSCY"
+    },
+    "Male-20-50BRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "20",
+        "Event": "50BRSCY",
+        "Time": "23.45",
+        "Entries": "Male-20-50BRSCY"
+    },
+    "Male-20-100BRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "20",
+        "Event": "100BRSCY",
+        "Time": "49.69",
+        "Entries": "Male-20-100BRSCY"
+    },
+    "Male-20-200BRSCY": {
+        "\ufeffGender": "Male",
+        "Age": "20",
+        "Event": "200BRSCY",
+        "Time": "01:47.9",
+        "Entries": "Male-20-200BRSCY"
+    },
+    "Male-20-50FLSCY": {
+        "\ufeffGender": "Male",
+        "Age": "20",
+        "Event": "50FLSCY",
+        "Time": "20.1",
+        "Entries": "Male-20-50FLSCY"
+    },
+    "Male-20-100FLSCY": {
+        "\ufeffGender": "Male",
+        "Age": "20",
+        "Event": "100FLSCY",
+        "Time": "42.8",
+        "Entries": "Male-20-100FLSCY"
+    },
+    "Male-20-200FLSCY": {
+        "\ufeffGender": "Male",
+        "Age": "20",
+        "Event": "200FLSCY",
+        "Time": "01:37.4",
+        "Entries": "Male-20-200FLSCY"
+    },
+    "Male-20-100IMSCY": {
+        "\ufeffGender": "Male",
+        "Age": "20",
+        "Event": "100IMSCY",
+        "Time": "",
+        "Entries": "Male-20-100IMSCY"
+    },
+    "Male-20-200IMSCY": {
+        "\ufeffGender": "Male",
+        "Age": "20",
+        "Event": "200IMSCY",
+        "Time": "01:36.3",
+        "Entries": "Male-20-200IMSCY"
+    },
+    "Male-20-400IMSCY": {
+        "\ufeffGender": "Male",
+        "Age": "20",
+        "Event": "400IMSCY",
+        "Time": "03:28.8",
+        "Entries": "Male-20-400IMSCY"
+    },
+    "Female-10-50FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "10",
+        "Event": "50FRSCY",
+        "Time": "24.9",
+        "Entries": "Female-10-50FRSCY"
+    },
+    "Female-10-100FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "10",
+        "Event": "100FRSCY",
+        "Time": "54.89",
+        "Entries": "Female-10-100FRSCY"
+    },
+    "Female-10-200FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "10",
+        "Event": "200FRSCY",
+        "Time": "01:58.2",
+        "Entries": "Female-10-200FRSCY"
+    },
+    "Female-10-500FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "10",
+        "Event": "500FRSCY",
+        "Time": "05:13.4",
+        "Entries": "Female-10-500FRSCY"
+    },
+    "Female-10-50BKSCY": {
+        "\ufeffGender": "Female",
+        "Age": "10",
+        "Event": "50BKSCY",
+        "Time": "27.27",
+        "Entries": "Female-10-50BKSCY"
+    },
+    "Female-10-100BKSCY": {
+        "\ufeffGender": "Female",
+        "Age": "10",
+        "Event": "100BKSCY",
+        "Time": "57.96",
+        "Entries": "Female-10-100BKSCY"
+    },
+    "Female-10-200BKSCY": {
+        "\ufeffGender": "Female",
+        "Age": "10",
+        "Event": "200BKSCY",
+        "Time": "",
+        "Entries": "Female-10-200BKSCY"
+    },
+    "Female-10-50BRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "10",
+        "Event": "50BRSCY",
+        "Time": "31.73",
+        "Entries": "Female-10-50BRSCY"
+    },
+    "Female-10-100BRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "10",
+        "Event": "100BRSCY",
+        "Time": "01:07.3",
+        "Entries": "Female-10-100BRSCY"
+    },
+    "Female-10-200BRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "10",
+        "Event": "200BRSCY",
+        "Time": "",
+        "Entries": "Female-10-200BRSCY"
+    },
+    "Female-10-50FLSCY": {
+        "\ufeffGender": "Female",
+        "Age": "10",
+        "Event": "50FLSCY",
+        "Time": "26.64",
+        "Entries": "Female-10-50FLSCY"
+    },
+    "Female-10-100FLSCY": {
+        "\ufeffGender": "Female",
+        "Age": "10",
+        "Event": "100FLSCY",
+        "Time": "59.67",
+        "Entries": "Female-10-100FLSCY"
+    },
+    "Female-10-200FLSCY": {
+        "\ufeffGender": "Female",
+        "Age": "10",
+        "Event": "200FLSCY",
+        "Time": "",
+        "Entries": "Female-10-200FLSCY"
+    },
+    "Female-10-100IMSCY": {
+        "\ufeffGender": "Female",
+        "Age": "10",
+        "Event": "100IMSCY",
+        "Time": "01:01.5",
+        "Entries": "Female-10-100IMSCY"
+    },
+    "Female-10-200IMSCY": {
+        "\ufeffGender": "Female",
+        "Age": "10",
+        "Event": "200IMSCY",
+        "Time": "02:12.0",
+        "Entries": "Female-10-200IMSCY"
+    },
+    "Female-10-400IMSCY": {
+        "\ufeffGender": "Female",
+        "Age": "10",
+        "Event": "400IMSCY",
+        "Time": "",
+        "Entries": "Female-10-400IMSCY"
+    },
+    "Female-12-50FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "12",
+        "Event": "50FRSCY",
+        "Time": "23.15",
+        "Entries": "Female-12-50FRSCY"
+    },
+    "Female-12-100FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "12",
+        "Event": "100FRSCY",
+        "Time": "50.27",
+        "Entries": "Female-12-100FRSCY"
+    },
+    "Female-12-200FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "12",
+        "Event": "200FRSCY",
+        "Time": "01:47.7",
+        "Entries": "Female-12-200FRSCY"
+    },
+    "Female-12-500FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "12",
+        "Event": "500FRSCY",
+        "Time": "04:49.3",
+        "Entries": "Female-12-500FRSCY"
+    },
+    "Female-12-1000FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "12",
+        "Event": "1000FRSCY",
+        "Time": "09:57.3",
+        "Entries": "Female-12-1000FRSCY"
+    },
+    "Female-12-1650FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "12",
+        "Event": "1650FRSCY",
+        "Time": "16:34.1",
+        "Entries": "Female-12-1650FRSCY"
+    },
+    "Female-12-50BKSCY": {
+        "\ufeffGender": "Female",
+        "Age": "12",
+        "Event": "50BKSCY",
+        "Time": "25.65",
+        "Entries": "Female-12-50BKSCY"
+    },
+    "Female-12-100BKSCY": {
+        "\ufeffGender": "Female",
+        "Age": "12",
+        "Event": "100BKSCY",
+        "Time": "54.21",
+        "Entries": "Female-12-100BKSCY"
+    },
+    "Female-12-200BKSCY": {
+        "\ufeffGender": "Female",
+        "Age": "12",
+        "Event": "200BKSCY",
+        "Time": "01:58.3",
+        "Entries": "Female-12-200BKSCY"
+    },
+    "Female-12-50BRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "12",
+        "Event": "50BRSCY",
+        "Time": "28.7",
+        "Entries": "Female-12-50BRSCY"
+    },
+    "Female-12-100BRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "12",
+        "Event": "100BRSCY",
+        "Time": "01:02.0",
+        "Entries": "Female-12-100BRSCY"
+    },
+    "Female-12-200BRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "12",
+        "Event": "200BRSCY",
+        "Time": "02:15.4",
+        "Entries": "Female-12-200BRSCY"
+    },
+    "Female-12-50FLSCY": {
+        "\ufeffGender": "Female",
+        "Age": "12",
+        "Event": "50FLSCY",
+        "Time": "24.39",
+        "Entries": "Female-12-50FLSCY"
+    },
+    "Female-12-100FLSCY": {
+        "\ufeffGender": "Female",
+        "Age": "12",
+        "Event": "100FLSCY",
+        "Time": "53.95",
+        "Entries": "Female-12-100FLSCY"
+    },
+    "Female-12-200FLSCY": {
+        "\ufeffGender": "Female",
+        "Age": "12",
+        "Event": "200FLSCY",
+        "Time": "02:00.0",
+        "Entries": "Female-12-200FLSCY"
+    },
+    "Female-12-100IMSCY": {
+        "\ufeffGender": "Female",
+        "Age": "12",
+        "Event": "100IMSCY",
+        "Time": "56.76",
+        "Entries": "Female-12-100IMSCY"
+    },
+    "Female-12-200IMSCY": {
+        "\ufeffGender": "Female",
+        "Age": "12",
+        "Event": "200IMSCY",
+        "Time": "02:03.2",
+        "Entries": "Female-12-200IMSCY"
+    },
+    "Female-12-400IMSCY": {
+        "\ufeffGender": "Female",
+        "Age": "12",
+        "Event": "400IMSCY",
+        "Time": "04:19.0",
+        "Entries": "Female-12-400IMSCY"
+    },
+    "Female-14-50FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "14",
+        "Event": "50FRSCY",
+        "Time": "21.89",
+        "Entries": "Female-14-50FRSCY"
+    },
+    "Female-14-100FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "14",
+        "Event": "100FRSCY",
+        "Time": "47.67",
+        "Entries": "Female-14-100FRSCY"
+    },
+    "Female-14-200FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "14",
+        "Event": "200FRSCY",
+        "Time": "01:44.6",
+        "Entries": "Female-14-200FRSCY"
+    },
+    "Female-14-500FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "14",
+        "Event": "500FRSCY",
+        "Time": "04:35.1",
+        "Entries": "Female-14-500FRSCY"
+    },
+    "Female-14-1000FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "14",
+        "Event": "1000FRSCY",
+        "Time": "09:29.8",
+        "Entries": "Female-14-1000FRSCY"
+    },
+    "Female-14-1650FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "14",
+        "Event": "1650FRSCY",
+        "Time": "15:52.8",
+        "Entries": "Female-14-1650FRSCY"
+    },
+    "Female-14-50BKSCY": {
+        "\ufeffGender": "Female",
+        "Age": "14",
+        "Event": "50BKSCY",
+        "Time": "24",
+        "Entries": "Female-14-50BKSCY"
+    },
+    "Female-14-100BKSCY": {
+        "\ufeffGender": "Female",
+        "Age": "14",
+        "Event": "100BKSCY",
+        "Time": "50.44",
+        "Entries": "Female-14-100BKSCY"
+    },
+    "Female-14-200BKSCY": {
+        "\ufeffGender": "Female",
+        "Age": "14",
+        "Event": "200BKSCY",
+        "Time": "01:51.0",
+        "Entries": "Female-14-200BKSCY"
+    },
+    "Female-14-50BRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "14",
+        "Event": "50BRSCY",
+        "Time": "25.98",
+        "Entries": "Female-14-50BRSCY"
+    },
+    "Female-14-100BRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "14",
+        "Event": "100BRSCY",
+        "Time": "01:00.0",
+        "Entries": "Female-14-100BRSCY"
+    },
+    "Female-14-200BRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "14",
+        "Event": "200BRSCY",
+        "Time": "02:10.2",
+        "Entries": "Female-14-200BRSCY"
+    },
+    "Female-14-50FLSCY": {
+        "\ufeffGender": "Female",
+        "Age": "14",
+        "Event": "50FLSCY",
+        "Time": "23.98",
+        "Entries": "Female-14-50FLSCY"
+    },
+    "Female-14-100FLSCY": {
+        "\ufeffGender": "Female",
+        "Age": "14",
+        "Event": "100FLSCY",
+        "Time": "50.64",
+        "Entries": "Female-14-100FLSCY"
+    },
+    "Female-14-200FLSCY": {
+        "\ufeffGender": "Female",
+        "Age": "14",
+        "Event": "200FLSCY",
+        "Time": "01:54.3",
+        "Entries": "Female-14-200FLSCY"
+    },
+    "Female-14-100IMSCY": {
+        "\ufeffGender": "Female",
+        "Age": "14",
+        "Event": "100IMSCY",
+        "Time": "",
+        "Entries": "Female-14-100IMSCY"
+    },
+    "Female-14-200IMSCY": {
+        "\ufeffGender": "Female",
+        "Age": "14",
+        "Event": "200IMSCY",
+        "Time": "01:55.7",
+        "Entries": "Female-14-200IMSCY"
+    },
+    "Female-14-400IMSCY": {
+        "\ufeffGender": "Female",
+        "Age": "14",
+        "Event": "400IMSCY",
+        "Time": "04:06.9",
+        "Entries": "Female-14-400IMSCY"
+    },
+    "Female-18-50FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "18",
+        "Event": "50FRSCY",
+        "Time": "21.32",
+        "Entries": "Female-18-50FRSCY"
+    },
+    "Female-18-100FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "18",
+        "Event": "100FRSCY",
+        "Time": "46.09",
+        "Entries": "Female-18-100FRSCY"
+    },
+    "Female-18-200FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "18",
+        "Event": "200FRSCY",
+        "Time": "01:40.3",
+        "Entries": "Female-18-200FRSCY"
+    },
+    "Female-18-500FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "18",
+        "Event": "500FRSCY",
+        "Time": "04:26.6",
+        "Entries": "Female-18-500FRSCY"
+    },
+    "Female-18-1000FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "18",
+        "Event": "1000FRSCY",
+        "Time": "08:59.7",
+        "Entries": "Female-18-1000FRSCY"
+    },
+    "Female-18-1650FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "18",
+        "Event": "1650FRSCY",
+        "Time": "15:13.3",
+        "Entries": "Female-18-1650FRSCY"
+    },
+    "Female-18-50BKSCY": {
+        "\ufeffGender": "Female",
+        "Age": "18",
+        "Event": "50BKSCY",
+        "Time": "22.52",
+        "Entries": "Female-18-50BKSCY"
+    },
+    "Female-18-100BKSCY": {
+        "\ufeffGender": "Female",
+        "Age": "18",
+        "Event": "100BKSCY",
+        "Time": "49.46",
+        "Entries": "Female-18-100BKSCY"
+    },
+    "Female-18-200BKSCY": {
+        "\ufeffGender": "Female",
+        "Age": "18",
+        "Event": "200BKSCY",
+        "Time": "01:47.2",
+        "Entries": "Female-18-200BKSCY"
+    },
+    "Female-18-50BRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "18",
+        "Event": "50BRSCY",
+        "Time": "25.98",
+        "Entries": "Female-18-50BRSCY"
+    },
+    "Female-18-100BRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "18",
+        "Event": "100BRSCY",
+        "Time": "57.29",
+        "Entries": "Female-18-100BRSCY"
+    },
+    "Female-18-200BRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "18",
+        "Event": "200BRSCY",
+        "Time": "02:04.3",
+        "Entries": "Female-18-200BRSCY"
+    },
+    "Female-18-50FLSCY": {
+        "\ufeffGender": "Female",
+        "Age": "18",
+        "Event": "50FLSCY",
+        "Time": "22.96",
+        "Entries": "Female-18-50FLSCY"
+    },
+    "Female-18-100FLSCY": {
+        "\ufeffGender": "Female",
+        "Age": "18",
+        "Event": "100FLSCY",
+        "Time": "49.24",
+        "Entries": "Female-18-100FLSCY"
+    },
+    "Female-18-200FLSCY": {
+        "\ufeffGender": "Female",
+        "Age": "18",
+        "Event": "200FLSCY",
+        "Time": "01:50.2",
+        "Entries": "Female-18-200FLSCY"
+    },
+    "Female-18-100IMSCY": {
+        "\ufeffGender": "Female",
+        "Age": "18",
+        "Event": "100IMSCY",
+        "Time": "",
+        "Entries": "Female-18-100IMSCY"
+    },
+    "Female-18-200IMSCY": {
+        "\ufeffGender": "Female",
+        "Age": "18",
+        "Event": "200IMSCY",
+        "Time": "01:51.4",
+        "Entries": "Female-18-200IMSCY"
+    },
+    "Female-18-400IMSCY": {
+        "\ufeffGender": "Female",
+        "Age": "18",
+        "Event": "400IMSCY",
+        "Time": "03:56.6",
+        "Entries": "Female-18-400IMSCY"
+    },
+    "Female-20-50FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "20",
+        "Event": "50FRSCY",
+        "Time": "20.79",
+        "Entries": "Female-20-50FRSCY"
+    },
+    "Female-20-100FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "20",
+        "Event": "100FRSCY",
+        "Time": "45.56",
+        "Entries": "Female-20-100FRSCY"
+    },
+    "Female-20-200FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "20",
+        "Event": "200FRSCY",
+        "Time": "01:39.1",
+        "Entries": "Female-20-200FRSCY"
+    },
+    "Female-20-500FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "20",
+        "Event": "500FRSCY",
+        "Time": "04:24.1",
+        "Entries": "Female-20-500FRSCY"
+    },
+    "Female-20-1000FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "20",
+        "Event": "1000FRSCY",
+        "Time": "08:59.7",
+        "Entries": "Female-20-1000FRSCY"
+    },
+    "Female-20-1650FRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "20",
+        "Event": "1650FRSCY",
+        "Time": "15:01.4",
+        "Entries": "Female-20-1650FRSCY"
+    },
+    "Female-20-50BKSCY": {
+        "\ufeffGender": "Female",
+        "Age": "20",
+        "Event": "50BKSCY",
+        "Time": "22.52",
+        "Entries": "Female-20-50BKSCY"
+    },
+    "Female-20-100BKSCY": {
+        "\ufeffGender": "Female",
+        "Age": "20",
+        "Event": "100BKSCY",
+        "Time": "48.26",
+        "Entries": "Female-20-100BKSCY"
+    },
+    "Female-20-200BKSCY": {
+        "\ufeffGender": "Female",
+        "Age": "20",
+        "Event": "200BKSCY",
+        "Time": "01:47.2",
+        "Entries": "Female-20-200BKSCY"
+    },
+    "Female-20-50BRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "20",
+        "Event": "50BRSCY",
+        "Time": "25.98",
+        "Entries": "Female-20-50BRSCY"
+    },
+    "Female-20-100BRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "20",
+        "Event": "100BRSCY",
+        "Time": "55.73",
+        "Entries": "Female-20-100BRSCY"
+    },
+    "Female-20-200BRSCY": {
+        "\ufeffGender": "Female",
+        "Age": "20",
+        "Event": "200BRSCY",
+        "Time": "02:01.3",
+        "Entries": "Female-20-200BRSCY"
+    },
+    "Female-20-50FLSCY": {
+        "\ufeffGender": "Female",
+        "Age": "20",
+        "Event": "50FLSCY",
+        "Time": "22.96",
+        "Entries": "Female-20-50FLSCY"
+    },
+    "Female-20-100FLSCY": {
+        "\ufeffGender": "Female",
+        "Age": "20",
+        "Event": "100FLSCY",
+        "Time": "48.46",
+        "Entries": "Female-20-100FLSCY"
+    },
+    "Female-20-200FLSCY": {
+        "\ufeffGender": "Female",
+        "Age": "20",
+        "Event": "200FLSCY",
+        "Time": "01:48.3",
+        "Entries": "Female-20-200FLSCY"
+    },
+    "Female-20-100IMSCY": {
+        "\ufeffGender": "Female",
+        "Age": "20",
+        "Event": "100IMSCY",
+        "Time": "",
+        "Entries": "Female-20-100IMSCY"
+    },
+    "Female-20-200IMSCY": {
+        "\ufeffGender": "Female",
+        "Age": "20",
+        "Event": "200IMSCY",
+        "Time": "01:48.4",
+        "Entries": "Female-20-200IMSCY"
+    },
+    "Female-20-400IMSCY": {
+        "\ufeffGender": "Female",
+        "Age": "20",
+        "Event": "400IMSCY",
+        "Time": "03:54.6",
+        "Entries": "Female-20-400IMSCY"
+    }
+}
