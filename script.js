@@ -74,13 +74,12 @@ document.getElementById("convert-btn").addEventListener("click", async function(
     const points = (1000 * Math.pow((baseTime/totalSeconds), 3)).toFixed(0);
 
     // Calculate point total as a percentage of the reference time
-    //const points = Math.max(0, (totalMilliseconds / referenceTime) * 100).toFixed(2);
 
-    //resultDiv.textContent = `Your point total is: ${points}% of the reference time.`;
     if(baseTime == ""){
         resultDiv.textContent = `Points cannot be calculated with these selections. Try again with a different selection`
+    }else if(points > 1100){
+        resultDiv.textContent = `Input time cannot be calculated. Try again with a different time.`
     }else{
-        resultDiv.textContent = `The base time is ${baseTime}, your time is ${totalSeconds}`;
         resultDiv.textContent = `The points conversion for your time is ${points}.`
     }
     
