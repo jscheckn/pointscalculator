@@ -56,8 +56,22 @@ document.getElementById("convert-btn").addEventListener("click", async function(
 
 
     // Retrieve reference time from database
-    const referenceTime = timeDatabase[`${gender}_${ageGroup}`];
-    const baseTime = timeDatabase[inputEntry]["Time"];
+    let baseTime = timeDatabase[inputEntry]["Time"];
+    if(!timePattern.test(baseTime)){
+        format = "seconds";
+    }else{
+        format = "mins";
+    }
+
+    if(isNaN(baseTime/1)){
+        let [m, sc] = baseTime.split(":");
+        m = m.slice(1);
+        const [s, c] = sc.split(".").map(Number);
+        baseTime = (m * 60 + s) + c*0.01
+        
+    }
+
+    const points = (1000 * Math.pow((baseTime/totalSeconds), 3)).toFixed(0);
 
     // Calculate point total as a percentage of the reference time
     //const points = Math.max(0, (totalMilliseconds / referenceTime) * 100).toFixed(2);
@@ -67,6 +81,7 @@ document.getElementById("convert-btn").addEventListener("click", async function(
         resultDiv.textContent = `Points cannot be calculated with these selections. Try again with a different selection`
     }else{
         resultDiv.textContent = `The base time is ${baseTime}, your time is ${totalSeconds}`;
+        resultDiv.textContent = `The points conversion for your time is ${points}.`
     }
     
 });

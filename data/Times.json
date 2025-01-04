@@ -17,14 +17,14 @@
         "\ufeffGender": "Male",
         "Age": "10",
         "Event": "200FRSCY",
-        "Time": "01:56.4",
+        "Time": "\u201801:56.41",
         "Entries": "Male-10-200FRSCY"
     },
     "Male-10-500FRSCY": {
         "\ufeffGender": "Male",
         "Age": "10",
         "Event": "500FRSCY",
-        "Time": "05:06.3",
+        "Time": "\u201805:06.32",
         "Entries": "Male-10-500FRSCY"
     },
     "Male-10-50BKSCY": {
@@ -59,7 +59,7 @@
         "\ufeffGender": "Male",
         "Age": "10",
         "Event": "100BRSCY",
-        "Time": "01:07.0",
+        "Time": "\u201801:06.95",
         "Entries": "Male-10-100BRSCY"
     },
     "Male-10-200BRSCY": {
@@ -94,14 +94,14 @@
         "\ufeffGender": "Male",
         "Age": "10",
         "Event": "100IMSCY",
-        "Time": "01:00.9",
+        "Time": "\u201801:00.89",
         "Entries": "Male-10-100IMSCY"
     },
     "Male-10-200IMSCY": {
         "\ufeffGender": "Male",
         "Age": "10",
         "Event": "200IMSCY",
-        "Time": "02:10.1",
+        "Time": "\u201802:10.12",
         "Entries": "Male-10-200IMSCY"
     },
     "Male-10-400IMSCY": {
@@ -129,28 +129,28 @@
         "\ufeffGender": "Male",
         "Age": "12",
         "Event": "200FRSCY",
-        "Time": "01:44.3",
+        "Time": "\u201801:44.28",
         "Entries": "Male-12-200FRSCY"
     },
     "Male-12-500FRSCY": {
         "\ufeffGender": "Male",
         "Age": "12",
         "Event": "500FRSCY",
-        "Time": "04:41.3",
+        "Time": "\u201804:41.26",
         "Entries": "Male-12-500FRSCY"
     },
     "Male-12-1000FRSCY": {
         "\ufeffGender": "Male",
         "Age": "12",
         "Event": "1000FRSCY",
-        "Time": "09:38.5",
+        "Time": "\u201809:38.50",
         "Entries": "Male-12-1000FRSCY"
     },
     "Male-12-1650FRSCY": {
         "\ufeffGender": "Male",
         "Age": "12",
         "Event": "1650FRSCY",
-        "Time": "16:17.8",
+        "Time": "\u201816:17.8",
         "Entries": "Male-12-1650FRSCY"
     },
     "Male-12-50BKSCY": {
@@ -171,7 +171,7 @@
         "\ufeffGender": "Male",
         "Age": "12",
         "Event": "200BKSCY",
-        "Time": "01:52.5",
+        "Time": "\u201801:52.47",
         "Entries": "Male-12-200BKSCY"
     },
     "Male-12-50BRSCY": {
@@ -192,7 +192,7 @@
         "\ufeffGender": "Male",
         "Age": "12",
         "Event": "200BRSCY",
-        "Time": "02:05.6",
+        "Time": "\u201802:05.56",
         "Entries": "Male-12-200BRSCY"
     },
     "Male-12-50FLSCY": {
@@ -213,7 +213,7 @@
         "\ufeffGender": "Male",
         "Age": "12",
         "Event": "200FLSCY",
-        "Time": "01:53.7",
+        "Time": "\u201801:53.66",
         "Entries": "Male-12-200FLSCY"
     },
     "Male-12-100IMSCY": {
@@ -227,14 +227,14 @@
         "\ufeffGender": "Male",
         "Age": "12",
         "Event": "200IMSCY",
-        "Time": "01:55.8",
+        "Time": "\u201801:55.75",
         "Entries": "Male-12-200IMSCY"
     },
     "Male-12-400IMSCY": {
         "\ufeffGender": "Male",
         "Age": "12",
         "Event": "400IMSCY",
-        "Time": "04:07.8",
+        "Time": "\u201804:07.81",
         "Entries": "Male-12-400IMSCY"
     },
     "Male-14-50FRSCY": {
@@ -255,28 +255,28 @@
         "\ufeffGender": "Male",
         "Age": "14",
         "Event": "200FRSCY",
-        "Time": "01:34.7",
+        "Time": "\u201801:34.68",
         "Entries": "Male-14-200FRSCY"
     },
     "Male-14-500FRSCY": {
         "\ufeffGender": "Male",
         "Age": "14",
         "Event": "500FRSCY",
-        "Time": "04:14.8",
+        "Time": "\u201804:14.83",
         "Entries": "Male-14-500FRSCY"
     },
     "Male-14-1000FRSCY": {
         "\ufeffGender": "Male",
         "Age": "14",
         "Event": "1000FRSCY",
-        "Time": "08:46.5",
+        "Time": "\u201808:46.5",
         "Entries": "Male-14-1000FRSCY"
     },
     "Male-14-1650FRSCY": {
         "\ufeffGender": "Male",
         "Age": "14",
         "Event": "1650FRSCY",
-        "Time": "14:45.8",
+        "Time": "\u201814:45.79",
         "Entries": "Male-14-1650FRSCY"
     },
     "Male-14-50BKSCY": {
@@ -297,7 +297,7 @@
         "\ufeffGender": "Male",
         "Age": "14",
         "Event": "200BKSCY",
-        "Time": "01:43.2",
+        "Time": "\u201801:43.15",
         "Entries": "Male-14-200BKSCY"
     },
     "Male-14-50BRSCY": {
@@ -318,7 +318,7 @@
         "\ufeffGender": "Male",
         "Age": "14",
         "Event": "200BRSCY",
-        "Time": "01:55.5",
+        "Time": "\u201801:55.52",
         "Entries": "Male-14-200BRSCY"
     },
     "Male-14-50FLSCY": {
@@ -339,7 +339,7 @@
         "\ufeffGender": "Male",
         "Age": "14",
         "Event": "200FLSCY",
-        "Time": "01:42.8",
+        "Time": "\u201801:42.77",
         "Entries": "Male-14-200FLSCY"
     },
     "Male-14-100IMSCY": {
@@ -353,14 +353,14 @@
         "\ufeffGender": "Male",
         "Age": "14",
         "Event": "200IMSCY",
-        "Time": "01:45.3",
+        "Time": "\u201801:45.3",
         "Entries": "Male-14-200IMSCY"
     },
     "Male-14-400IMSCY": {
         "\ufeffGender": "Male",
         "Age": "14",
         "Event": "400IMSCY",
-        "Time": "03:47.9",
+        "Time": "\u201803:47.9",
         "Entries": "Male-14-400IMSCY"
     },
     "Male-18-50FRSCY": {
@@ -381,28 +381,28 @@
         "\ufeffGender": "Male",
         "Age": "18",
         "Event": "200FRSCY",
-        "Time": "01:31.4",
+        "Time": "\u201801:31.37",
         "Entries": "Male-18-200FRSCY"
     },
     "Male-18-500FRSCY": {
         "\ufeffGender": "Male",
         "Age": "18",
         "Event": "500FRSCY",
-        "Time": "04:08.4",
+        "Time": "\u201804:08.42",
         "Entries": "Male-18-500FRSCY"
     },
     "Male-18-1000FRSCY": {
         "\ufeffGender": "Male",
         "Age": "18",
         "Event": "1000FRSCY",
-        "Time": "08:43.7",
+        "Time": "\u201808:43.66",
         "Entries": "Male-18-1000FRSCY"
     },
     "Male-18-1650FRSCY": {
         "\ufeffGender": "Male",
         "Age": "18",
         "Event": "1650FRSCY",
-        "Time": "14:29.5",
+        "Time": "\u201814:29.48",
         "Entries": "Male-18-1650FRSCY"
     },
     "Male-18-50BKSCY": {
@@ -423,7 +423,7 @@
         "\ufeffGender": "Male",
         "Age": "18",
         "Event": "200BKSCY",
-        "Time": "01:37.4",
+        "Time": "\u201801:37.35",
         "Entries": "Male-18-200BKSCY"
     },
     "Male-18-50BRSCY": {
@@ -444,7 +444,7 @@
         "\ufeffGender": "Male",
         "Age": "18",
         "Event": "200BRSCY",
-        "Time": "01:51.4",
+        "Time": "\u201801:51.38",
         "Entries": "Male-18-200BRSCY"
     },
     "Male-18-50FLSCY": {
@@ -465,7 +465,7 @@
         "\ufeffGender": "Male",
         "Age": "18",
         "Event": "200FLSCY",
-        "Time": "01:40.4",
+        "Time": "\u201801:40.39",
         "Entries": "Male-18-200FLSCY"
     },
     "Male-18-100IMSCY": {
@@ -479,14 +479,14 @@
         "\ufeffGender": "Male",
         "Age": "18",
         "Event": "200IMSCY",
-        "Time": "01:41.2",
+        "Time": "\u201801:41.18",
         "Entries": "Male-18-200IMSCY"
     },
     "Male-18-400IMSCY": {
         "\ufeffGender": "Male",
         "Age": "18",
         "Event": "400IMSCY",
-        "Time": "03:35.3",
+        "Time": "\u201803:35.27",
         "Entries": "Male-18-400IMSCY"
     },
     "Male-20-50FRSCY": {
@@ -507,28 +507,28 @@
         "\ufeffGender": "Male",
         "Age": "20",
         "Event": "200FRSCY",
-        "Time": "01:29.2",
+        "Time": "\u201801:29.15",
         "Entries": "Male-20-200FRSCY"
     },
     "Male-20-500FRSCY": {
         "\ufeffGender": "Male",
         "Age": "20",
         "Event": "500FRSCY",
-        "Time": "04:06.3",
+        "Time": "\u201804:06.32",
         "Entries": "Male-20-500FRSCY"
     },
     "Male-20-1000FRSCY": {
         "\ufeffGender": "Male",
         "Age": "20",
         "Event": "1000FRSCY",
-        "Time": "08:33.9",
+        "Time": "\u201808:33.93",
         "Entries": "Male-20-1000FRSCY"
     },
     "Male-20-1650FRSCY": {
         "\ufeffGender": "Male",
         "Age": "20",
         "Event": "1650FRSCY",
-        "Time": "14:12.1",
+        "Time": "\u201814:12.08",
         "Entries": "Male-20-1650FRSCY"
     },
     "Male-20-50BKSCY": {
@@ -549,7 +549,7 @@
         "\ufeffGender": "Male",
         "Age": "20",
         "Event": "200BKSCY",
-        "Time": "01:35.7",
+        "Time": "\u201801:35.73",
         "Entries": "Male-20-200BKSCY"
     },
     "Male-20-50BRSCY": {
@@ -570,7 +570,7 @@
         "\ufeffGender": "Male",
         "Age": "20",
         "Event": "200BRSCY",
-        "Time": "01:47.9",
+        "Time": "\u201801:47.91",
         "Entries": "Male-20-200BRSCY"
     },
     "Male-20-50FLSCY": {
@@ -591,7 +591,7 @@
         "\ufeffGender": "Male",
         "Age": "20",
         "Event": "200FLSCY",
-        "Time": "01:37.4",
+        "Time": "\u201801:37.35",
         "Entries": "Male-20-200FLSCY"
     },
     "Male-20-100IMSCY": {
@@ -605,14 +605,14 @@
         "\ufeffGender": "Male",
         "Age": "20",
         "Event": "200IMSCY",
-        "Time": "01:36.3",
+        "Time": "\u201801:36.34",
         "Entries": "Male-20-200IMSCY"
     },
     "Male-20-400IMSCY": {
         "\ufeffGender": "Male",
         "Age": "20",
         "Event": "400IMSCY",
-        "Time": "03:28.8",
+        "Time": "\u201803:28.82",
         "Entries": "Male-20-400IMSCY"
     },
     "Female-10-50FRSCY": {
@@ -633,14 +633,14 @@
         "\ufeffGender": "Female",
         "Age": "10",
         "Event": "200FRSCY",
-        "Time": "01:58.2",
+        "Time": "\u201801:58.2",
         "Entries": "Female-10-200FRSCY"
     },
     "Female-10-500FRSCY": {
         "\ufeffGender": "Female",
         "Age": "10",
         "Event": "500FRSCY",
-        "Time": "05:13.4",
+        "Time": "\u201805:13.45",
         "Entries": "Female-10-500FRSCY"
     },
     "Female-10-50BKSCY": {
@@ -675,7 +675,7 @@
         "\ufeffGender": "Female",
         "Age": "10",
         "Event": "100BRSCY",
-        "Time": "01:07.3",
+        "Time": "\u201801:07.3",
         "Entries": "Female-10-100BRSCY"
     },
     "Female-10-200BRSCY": {
@@ -710,14 +710,14 @@
         "\ufeffGender": "Female",
         "Age": "10",
         "Event": "100IMSCY",
-        "Time": "01:01.5",
+        "Time": "\u201801:01.5",
         "Entries": "Female-10-100IMSCY"
     },
     "Female-10-200IMSCY": {
         "\ufeffGender": "Female",
         "Age": "10",
         "Event": "200IMSCY",
-        "Time": "02:12.0",
+        "Time": "\u201802:11.99",
         "Entries": "Female-10-200IMSCY"
     },
     "Female-10-400IMSCY": {
@@ -745,28 +745,28 @@
         "\ufeffGender": "Female",
         "Age": "12",
         "Event": "200FRSCY",
-        "Time": "01:47.7",
+        "Time": "\u201801:47.71",
         "Entries": "Female-12-200FRSCY"
     },
     "Female-12-500FRSCY": {
         "\ufeffGender": "Female",
         "Age": "12",
         "Event": "500FRSCY",
-        "Time": "04:49.3",
+        "Time": "\u201804:49.32",
         "Entries": "Female-12-500FRSCY"
     },
     "Female-12-1000FRSCY": {
         "\ufeffGender": "Female",
         "Age": "12",
         "Event": "1000FRSCY",
-        "Time": "09:57.3",
+        "Time": "\u201809:57.33",
         "Entries": "Female-12-1000FRSCY"
     },
     "Female-12-1650FRSCY": {
         "\ufeffGender": "Female",
         "Age": "12",
         "Event": "1650FRSCY",
-        "Time": "16:34.1",
+        "Time": "\u201816:34.13",
         "Entries": "Female-12-1650FRSCY"
     },
     "Female-12-50BKSCY": {
@@ -787,7 +787,7 @@
         "\ufeffGender": "Female",
         "Age": "12",
         "Event": "200BKSCY",
-        "Time": "01:58.3",
+        "Time": "\u201801:58.31",
         "Entries": "Female-12-200BKSCY"
     },
     "Female-12-50BRSCY": {
@@ -801,14 +801,14 @@
         "\ufeffGender": "Female",
         "Age": "12",
         "Event": "100BRSCY",
-        "Time": "01:02.0",
+        "Time": "\u201801:02.02",
         "Entries": "Female-12-100BRSCY"
     },
     "Female-12-200BRSCY": {
         "\ufeffGender": "Female",
         "Age": "12",
         "Event": "200BRSCY",
-        "Time": "02:15.4",
+        "Time": "\u201802:15.38",
         "Entries": "Female-12-200BRSCY"
     },
     "Female-12-50FLSCY": {
@@ -829,7 +829,7 @@
         "\ufeffGender": "Female",
         "Age": "12",
         "Event": "200FLSCY",
-        "Time": "02:00.0",
+        "Time": "\u201802:00.0",
         "Entries": "Female-12-200FLSCY"
     },
     "Female-12-100IMSCY": {
@@ -843,14 +843,14 @@
         "\ufeffGender": "Female",
         "Age": "12",
         "Event": "200IMSCY",
-        "Time": "02:03.2",
+        "Time": "\u201802:03.23",
         "Entries": "Female-12-200IMSCY"
     },
     "Female-12-400IMSCY": {
         "\ufeffGender": "Female",
         "Age": "12",
         "Event": "400IMSCY",
-        "Time": "04:19.0",
+        "Time": "\u201804:18.99",
         "Entries": "Female-12-400IMSCY"
     },
     "Female-14-50FRSCY": {
@@ -871,28 +871,28 @@
         "\ufeffGender": "Female",
         "Age": "14",
         "Event": "200FRSCY",
-        "Time": "01:44.6",
+        "Time": "\u201801:44.55",
         "Entries": "Female-14-200FRSCY"
     },
     "Female-14-500FRSCY": {
         "\ufeffGender": "Female",
         "Age": "14",
         "Event": "500FRSCY",
-        "Time": "04:35.1",
+        "Time": "\u201804:35.14",
         "Entries": "Female-14-500FRSCY"
     },
     "Female-14-1000FRSCY": {
         "\ufeffGender": "Female",
         "Age": "14",
         "Event": "1000FRSCY",
-        "Time": "09:29.8",
+        "Time": "\u201809:29.81",
         "Entries": "Female-14-1000FRSCY"
     },
     "Female-14-1650FRSCY": {
         "\ufeffGender": "Female",
         "Age": "14",
         "Event": "1650FRSCY",
-        "Time": "15:52.8",
+        "Time": "\u201815:52.84",
         "Entries": "Female-14-1650FRSCY"
     },
     "Female-14-50BKSCY": {
@@ -913,7 +913,7 @@
         "\ufeffGender": "Female",
         "Age": "14",
         "Event": "200BKSCY",
-        "Time": "01:51.0",
+        "Time": "\u201801:50.95",
         "Entries": "Female-14-200BKSCY"
     },
     "Female-14-50BRSCY": {
@@ -927,14 +927,14 @@
         "\ufeffGender": "Female",
         "Age": "14",
         "Event": "100BRSCY",
-        "Time": "01:00.0",
+        "Time": "\u201801:00.02",
         "Entries": "Female-14-100BRSCY"
     },
     "Female-14-200BRSCY": {
         "\ufeffGender": "Female",
         "Age": "14",
         "Event": "200BRSCY",
-        "Time": "02:10.2",
+        "Time": "\u201802:10.22",
         "Entries": "Female-14-200BRSCY"
     },
     "Female-14-50FLSCY": {
@@ -955,7 +955,7 @@
         "\ufeffGender": "Female",
         "Age": "14",
         "Event": "200FLSCY",
-        "Time": "01:54.3",
+        "Time": "\u201801:54.33",
         "Entries": "Female-14-200FLSCY"
     },
     "Female-14-100IMSCY": {
@@ -969,14 +969,14 @@
         "\ufeffGender": "Female",
         "Age": "14",
         "Event": "200IMSCY",
-        "Time": "01:55.7",
+        "Time": "\u201801:55.73",
         "Entries": "Female-14-200IMSCY"
     },
     "Female-14-400IMSCY": {
         "\ufeffGender": "Female",
         "Age": "14",
         "Event": "400IMSCY",
-        "Time": "04:06.9",
+        "Time": "\u201804:06.95",
         "Entries": "Female-14-400IMSCY"
     },
     "Female-18-50FRSCY": {
@@ -997,28 +997,28 @@
         "\ufeffGender": "Female",
         "Age": "18",
         "Event": "200FRSCY",
-        "Time": "01:40.3",
+        "Time": "\u201801:40.31",
         "Entries": "Female-18-200FRSCY"
     },
     "Female-18-500FRSCY": {
         "\ufeffGender": "Female",
         "Age": "18",
         "Event": "500FRSCY",
-        "Time": "04:26.6",
+        "Time": "\u201804:26.58",
         "Entries": "Female-18-500FRSCY"
     },
     "Female-18-1000FRSCY": {
         "\ufeffGender": "Female",
         "Age": "18",
         "Event": "1000FRSCY",
-        "Time": "08:59.7",
+        "Time": "\u201808:59.65",
         "Entries": "Female-18-1000FRSCY"
     },
     "Female-18-1650FRSCY": {
         "\ufeffGender": "Female",
         "Age": "18",
         "Event": "1650FRSCY",
-        "Time": "15:13.3",
+        "Time": "\u201815:13.3",
         "Entries": "Female-18-1650FRSCY"
     },
     "Female-18-50BKSCY": {
@@ -1039,7 +1039,7 @@
         "\ufeffGender": "Female",
         "Age": "18",
         "Event": "200BKSCY",
-        "Time": "01:47.2",
+        "Time": "\u201801:47.16",
         "Entries": "Female-18-200BKSCY"
     },
     "Female-18-50BRSCY": {
@@ -1060,7 +1060,7 @@
         "\ufeffGender": "Female",
         "Age": "18",
         "Event": "200BRSCY",
-        "Time": "02:04.3",
+        "Time": "\u201802:04.32",
         "Entries": "Female-18-200BRSCY"
     },
     "Female-18-50FLSCY": {
@@ -1081,7 +1081,7 @@
         "\ufeffGender": "Female",
         "Age": "18",
         "Event": "200FLSCY",
-        "Time": "01:50.2",
+        "Time": "\u201801:50.15",
         "Entries": "Female-18-200FLSCY"
     },
     "Female-18-100IMSCY": {
@@ -1095,14 +1095,14 @@
         "\ufeffGender": "Female",
         "Age": "18",
         "Event": "200IMSCY",
-        "Time": "01:51.4",
+        "Time": "\u201801:51.65",
         "Entries": "Female-18-200IMSCY"
     },
     "Female-18-400IMSCY": {
         "\ufeffGender": "Female",
         "Age": "18",
         "Event": "400IMSCY",
-        "Time": "03:56.6",
+        "Time": "\u201803:58.4",
         "Entries": "Female-18-400IMSCY"
     },
     "Female-20-50FRSCY": {
@@ -1123,28 +1123,28 @@
         "\ufeffGender": "Female",
         "Age": "20",
         "Event": "200FRSCY",
-        "Time": "01:39.1",
+        "Time": "\u201801:39.1",
         "Entries": "Female-20-200FRSCY"
     },
     "Female-20-500FRSCY": {
         "\ufeffGender": "Female",
         "Age": "20",
         "Event": "500FRSCY",
-        "Time": "04:24.1",
+        "Time": "\u201804:24.06",
         "Entries": "Female-20-500FRSCY"
     },
     "Female-20-1000FRSCY": {
         "\ufeffGender": "Female",
         "Age": "20",
         "Event": "1000FRSCY",
-        "Time": "08:59.7",
+        "Time": "\u201808:59.65",
         "Entries": "Female-20-1000FRSCY"
     },
     "Female-20-1650FRSCY": {
         "\ufeffGender": "Female",
         "Age": "20",
         "Event": "1650FRSCY",
-        "Time": "15:01.4",
+        "Time": "\u201815:01.41",
         "Entries": "Female-20-1650FRSCY"
     },
     "Female-20-50BKSCY": {
@@ -1165,7 +1165,7 @@
         "\ufeffGender": "Female",
         "Age": "20",
         "Event": "200BKSCY",
-        "Time": "01:47.2",
+        "Time": "\u201801:47.16",
         "Entries": "Female-20-200BKSCY"
     },
     "Female-20-50BRSCY": {
@@ -1186,7 +1186,7 @@
         "\ufeffGender": "Female",
         "Age": "20",
         "Event": "200BRSCY",
-        "Time": "02:01.3",
+        "Time": "\u201802:01.29",
         "Entries": "Female-20-200BRSCY"
     },
     "Female-20-50FLSCY": {
@@ -1207,7 +1207,7 @@
         "\ufeffGender": "Female",
         "Age": "20",
         "Event": "200FLSCY",
-        "Time": "01:48.3",
+        "Time": "\u201801:48.33",
         "Entries": "Female-20-200FLSCY"
     },
     "Female-20-100IMSCY": {
@@ -1221,14 +1221,14 @@
         "\ufeffGender": "Female",
         "Age": "20",
         "Event": "200IMSCY",
-        "Time": "01:48.4",
+        "Time": "\u201801:48.37",
         "Entries": "Female-20-200IMSCY"
     },
     "Female-20-400IMSCY": {
         "\ufeffGender": "Female",
         "Age": "20",
         "Event": "400IMSCY",
-        "Time": "03:54.6",
+        "Time": "\u201803:54.60",
         "Entries": "Female-20-400IMSCY"
     }
 }
