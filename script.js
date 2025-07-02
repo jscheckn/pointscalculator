@@ -1,18 +1,23 @@
 document.getElementById("convert-btn").addEventListener("click", async function() {
     const raceTimeInput = document.getElementById("race-time").value;
     const ageGroup = document.getElementById("age-group").value;
+    const poolLength = document.getElementById("pool-length").value;
     const event = document.getElementById("event").value;
     const gender = document.getElementById("gender").value;
     const resultDiv = document.getElementById("result");
     
-    let inputEntry = [gender, ageGroup, event].join("-")
+    let inputEntry = [poolLength, ageGroup, gender, event].join("")
     // Database of times by age group and gender
 
-    let timeDatabase;
+    let timeDatabase = {};
+
     try {
-        const response = await fetch("data/Times.json"); // Adjust path as needed
+        const fileToFetch = ageGroup === "Open" ? "worldTimes.json" : "nagtimes.json";
+        const response = await fetch(fileToFetch);
+
         if (!response.ok) throw new Error("Failed to load time database.");
         timeDatabase = await response.json();
+
     } catch (error) {
         resultDiv.textContent = "Error loading time database.";
         console.error(error);
@@ -26,7 +31,7 @@ document.getElementById("convert-btn").addEventListener("click", async function(
     const timePattern = /^\d{1,2}:\d{2}\.\d{2}$/;
     const otherTimePattern = /^\d{1,2}\.\d{2}$/
     if (!timePattern.test(raceTimeInput) && !otherTimePattern.test(raceTimeInput)) {
-        resultDiv.textContent = "Please enter a valid time in mm:ss.SS format.";
+        resultDiv.textContent = "Please enter a valid time in mm:ss.SS format or ss.SS";
         return;
     }
     let format = "";
@@ -36,9 +41,11 @@ document.getElementById("convert-btn").addEventListener("click", async function(
         format = "mins";
     }
 
+
     // Validate age group and gender selection
     if (!timeDatabase[inputEntry]) {
         resultDiv.textContent = "Invalid age group or gender selected.";
+        console.log(inputEntry)
         return;
     }
     let totalSeconds = 0;
@@ -52,28 +59,32 @@ document.getElementById("convert-btn").addEventListener("click", async function(
         const [seconds, centiseconds] = raceTimeInput.split(".").map(Number);
         totalSeconds = seconds + centiseconds*0.01
     }
-
+    
 
 
     // Retrieve reference time from database
-    let baseTime = timeDatabase[inputEntry]["Time"];
+    let baseTime = timeDatabase[inputEntry];
     if(!timePattern.test(baseTime)){
         format = "seconds";
     }else{
         format = "mins";
     }
 
-    if(isNaN(baseTime/1)){
-        let [m, sc] = baseTime.split(":");
-        m = m.slice(1);
-        const [s, c] = sc.split(".").map(Number);
-        baseTime = (m * 60 + s) + c*0.01
-        
+    if (timePattern.test(baseTime)) {
+        // mm:ss.SS
+        const [minutes, rest] = baseTime.split(":");
+        const [seconds, centiseconds] = rest.split(".").map(Number);
+        baseSeconds = parseInt(minutes) * 60 + seconds + centiseconds * 0.01;
+    } else if (otherTimePattern.test(baseTime)) {
+        // ss.SS
+        const [seconds, centiseconds] = baseTime.split(".").map(Number);
+        baseSeconds = seconds + centiseconds * 0.01;
+    } else {
+        resultDiv.textContent = "Invalid base time format.";
+        return;
     }
-
-    const points = (1000 * Math.pow((baseTime/totalSeconds), 3)).toFixed(0);
-
-    // Calculate point total as a percentage of the reference time
+    
+    const points = (1000 * Math.pow((baseSeconds/totalSeconds), 3)).toFixed(0);
 
     if(baseTime == ""){
         resultDiv.textContent = `Points cannot be calculated with these selections. Try again with a different selection`
